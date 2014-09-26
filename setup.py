@@ -39,8 +39,12 @@ setup(
     # 2 environment, try the `fakezope2eggs` recipe
     install_requires=[
         'setuptools',
+        'plone.api',
         'plone.app.portlets>=2.1.2',
     ],
+    extras_require={
+      'test': ['plone.app.testing'],
+    },
     entry_points="""
     [z3c.autoinclude.plugin]
     target = plone
