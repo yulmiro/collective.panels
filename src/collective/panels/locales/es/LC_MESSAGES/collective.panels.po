@@ -1,0 +1,211 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# Translators:
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2014
+# Yuliana Miquilareno <yulianamiquilareno@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone CMS\n"
+"POT-Creation-Date: 2014-04-23 13:59+0000\n"
+"PO-Revision-Date: 2014-09-20 18:14+0000\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/plone/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Domain: collective.panels\n"
+"Language: es\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Preferred-Encodings: utf-8 latin1\n"
+
+#: ./vocabularies.py:17
+msgid "Above page content"
+msgstr "Por encima de contenido de la página"
+
+#: ./adding.pt:5
+msgid "Add panel"
+msgstr "Añadir panel"
+
+#: ./manager.pt:28
+msgid "Add portlet"
+msgstr "Añadir portlet"
+
+#: ./vocabularies.py:16
+msgid "Below page content"
+msgstr "Debajo contenido de la página"
+
+#: ./manager.pt:53
+msgid "Change"
+msgstr "Cambiar"
+
+#: ./manager.pt:35
+msgid "Change layout"
+msgstr "Cambiar layout"
+
+#: ./interfaces.py:88
+msgid "Column spacing"
+msgstr "Espaciado de columna"
+
+#: ./controlpanel.py:14
+msgid "Configure panels"
+msgstr "Configurar paneles"
+
+#: ./manager.pt:72
+msgid "Delete"
+msgstr "Eliminar "
+
+#: ./interfaces.py:49
+msgid "Description"
+msgstr "Descripción "
+
+#: ./manager.pt:78
+msgid "Duplicate"
+msgstr "Duplicar "
+
+#: ./browser.py:456
+msgid "Global panel settings unavailable; ignoring."
+msgstr "Ajustes no disponibles en panel global; ignorando."
+
+#: ./display.pt:13
+msgid "Info"
+msgstr "Información"
+
+#: ./parent-link.pt:2
+msgid "Information"
+msgstr "Información"
+
+#: ./interfaces.py:59
+msgid "Layer"
+msgstr "Capa"
+
+#: ./adding.pt:37
+msgid "Layout"
+msgstr "Layout"
+
+#: ./browser.py:268
+msgid "Layout changed."
+msgstr "Layout cambió."
+
+#: ./adding.pt:9
+msgid "Location"
+msgstr "Ubicación "
+
+#: ./manager.pt:4
+msgid "Manage panel"
+msgstr "Gestionar panel  "
+
+#: ./link.pt:3
+msgid "Manage panels"
+msgstr "Gestionar paneles"
+
+#: ./browser.py:89
+msgid "Missing layout: ${name}."
+msgstr "Layout no encontrado: ${name}."
+
+#: ./interfaces.py:39
+msgid "Name"
+msgstr "Nombre "
+
+#: ./interfaces.py:97
+msgid "Omit margins"
+msgstr "Omita márgenes"
+
+#: ./content.py:145
+msgid "Panel ${name}"
+msgstr "Panel ${name}"
+
+#: ./traversal.py:107
+msgid "Panel added."
+msgstr "Panel añadido."
+
+#: ./traversal.py:50
+msgid "Panel removed."
+msgstr "Panel eliminado."
+
+#: ./profile/controlpanel.xml
+msgid "Panels"
+msgstr "Paneles"
+
+#: ./vocabularies.py:18
+msgid "Portal footer"
+msgstr "Portal footer"
+
+#: ./vocabularies.py:19
+msgid "Portal top"
+msgstr "Portal top"
+
+#: ./adding.pt:38
+msgid ""
+"Select a panel layout. The arrows indicate the direction of the layout."
+msgstr "Seleccione un layout del panel. Las flechas indican la dirección de la disposición."
+
+#: ./adding.pt:10
+msgid "Select the location where a new panel should be added."
+msgstr "Seleccione la ubicación en la que se debe añadir un nuevo panel."
+
+#: ./interfaces.py:98
+msgid ""
+"Select this option to omit margins on the left- and right side of a panel."
+msgstr "Seleccione esta opción para omitir márgenes en el lado izquierdo y derecho de un panel."
+
+#: ./interfaces.py:67
+msgid "Site-local panel managers"
+msgstr "Administradores de panel de sitio local."
+
+#: ./interfaces.py:79
+msgid ""
+"Site-local panel managers will be assignable on navigation roots instead of "
+"only site roots if you select this option. Check this if you are using "
+"LinguaPlone, collective.multilingual or similar, and you want per-language "
+"Site-local panel managers."
+msgstr "Administradores de panel del sitio local serán asignables en las raíces de navegación en lugar de sólo las raíces sitio si selecciona esta opción. Seleccione esta opción si está utilizando LinguaPlone, collective.multilingual o similar, y quiere Administrar el panel del sitio por idioma."
+
+#: ./interfaces.py:54
+msgid "Template"
+msgstr "Plantilla"
+
+#: ./interfaces.py:68
+msgid ""
+"The locations listed here will be assignable only at sites (typically "
+"Plone's site root, unless local sites are present)."
+msgstr "Los lugares mencionados aquí serán asignable sólo en los sitios (por lo general la raíz del sitio de Plone, a menos que los sitios locales estén presentes)."
+
+#: ./controlpanel.py:15
+msgid "This form lets you configure the panel add-on product."
+msgstr "Esta forma le permite configurar el panel del producto add-on."
+
+#: ./interfaces.py:89
+msgid ""
+"This is the horizontal distance between portlets in a panel layout, "
+"expressed as a percentage of the available width."
+msgstr "Esta es la distancia horizontal entre portlets en un distribución del panel, expresada como un porcentaje de la anchura disponible."
+
+#: ./parent-link.pt:6
+msgid ""
+"This is the panel management interface. Add a new panel or manage existing "
+"ones."
+msgstr "Esta es la interfaz de administración del panel. Añadir un nuevo panel o es propietario de las existentes."
+
+#: ./display.pt:14
+msgid "This panel is empty."
+msgstr "Este panel está vacío."
+
+#: ./interfaces.py:44
+msgid "Title"
+msgstr "Título "
+
+#: ./browser.py:452
+msgid "Unable to find registry."
+msgstr "No se pudo encontrar registro."
+
+#: ./interfaces.py:78
+msgid "Use navigation root"
+msgstr "Use la raíz de navegación"
+
+#: ./parent-link.pt:13
+msgid ""
+"You are managing panels for a default page. If you wanted to manage panels "
+"for the parent folder, ${go_here}."
+msgstr "Usted está manejando paneles para una página predeterminada. Si quisieras manejar paneles de la carpeta principal, ${go_here}."
